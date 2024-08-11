@@ -594,14 +594,10 @@ h1 strong::after {
     margin-top: -100px;
 }
 
-
-
-
 .pt03 {
     position: relative;
     background: linear-gradient(#e1daca, #c1b6a3);
 }
-
 
 .pt03::before {
     position: absolute;
@@ -634,7 +630,6 @@ h1 strong::after {
     border: 8px solid #999287;
     outline: 1px solid #c9c9c9;
 }
-
 
 .pt03 .tit_box h2 {
     font-size: 32px;
@@ -702,7 +697,7 @@ h1 strong::after {
     gap: 30px;
     justify-content: center;
     margin-top: 24px;
-    margin-left: -16px;
+    padding-left: 64px;
 }
 
 .pt03 .tit_box .link a {
@@ -723,7 +718,6 @@ h1 strong::after {
 .training {
     position: relative;
     background: linear-gradient(#c1b6a3, #8e806a);
-
 }
 
 .training::before {
@@ -992,7 +986,7 @@ h1 strong::after {
 
 .profile .history .info_box .certi {
     list-style: inherit;
-    padding-left: 24px;
+    padding-left: 40px;
 }
 
 .profile .history .info_box .certi li {
